@@ -1,0 +1,15 @@
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\bin\Debug\Group4_Project_PRG281.exe.config
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\bin\Debug\Group4_Project_PRG281.exe
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\bin\Debug\Group4_Project_PRG281.pdb
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.csproj.AssemblyReference.cache
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.Login.resources
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.Properties.Resources.resources
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.csproj.GenerateResource.cache
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.csproj.CoreCompileInputs.cache
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.exe
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.pdb
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.PresentationLayer.MainForm.resources
+C:\Users\Taryn\OneDrive\Desktop\#C\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.PresentationLayer.ModuleDataCapture.resources
+C:\Users\emanu\OneDrive\Documents\Belgium campus\2nd year\PRG2782\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Documents\Belgium campus\2nd year\PRG2782\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.exe
+C:\Users\emanu\OneDrive\Documents\Belgium campus\2nd year\PRG2782\Group4_Project_PRG281\obj\Debug\Group4_Project_PRG281.pdb
